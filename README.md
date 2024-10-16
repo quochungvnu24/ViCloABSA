@@ -9,7 +9,7 @@ ViCloABSA is a new benchmark based on a strict annotation scheme for evaluating 
 **Notice**: This dataset is published for research purposes only and is not intended for commercial use.
 
 ## Data Example
-![example](https://github.com/quochungvnu24/ViCloABSA/assets/samples.png)
+![example](https://github.com/quochungvnu24/ViCloABSA/blob/main/samples.png)
 ## Citation 
 ```bash
 coming soon!
